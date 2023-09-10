@@ -1,8 +1,4 @@
-.introduction{
-padding-inline: center;
-background-color: turquoise;
+* { 
+    font-family: 'Architects Daughter', cursive;
 }
 
-.body{
-    background-color: turquoise
-}
