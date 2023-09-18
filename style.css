@@ -1,9 +1,11 @@
 * { 
     font-family: 'Architects Daughter', cursive;
+    background-color: teal;
+    color: white;
 }
 
 table, th, td {
-    border: solid 4px #F8328C;
+    border: solid 4px pink;
 }
 
 
@@ -12,12 +14,21 @@ table, th, td {
 }
 
 .navbar {
-    padding: 10px;
+    padding: 5px;
     text-align: right;
-    
 }
 
 .picture {
     height: 500px;
     width: 300px;
+}
+
+.notes {
+    font-size: 14px;
+    color: black;
+}
+
+h3 {
+    color: pink;
+    text-decoration: underline;
 }
