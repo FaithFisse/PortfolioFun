@@ -18,11 +18,9 @@ table, th, td {
     text-align: right;
 }
 
-.picture {
-    height: 500px;
-    width: 300px;
-    border-radius: 50%;
-    
+.image {
+    width: 400px;
+    height: 600px;
 }
 
 .notes {
