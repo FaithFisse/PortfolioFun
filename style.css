@@ -1,16 +1,16 @@
 * { 
     font-family: 'Architects Daughter', cursive;
-    background-color: teal;
-    color: white;
+    background-color: #d4afb9;
 }
 
 table, th, td {
-    border: solid 4px pink;
+    border: solid 4px #b26f81;
 }
 
 
 .introduction {
     text-align: center;
+    color: #b26f81;
 }
 
 .navbar {
@@ -20,16 +20,34 @@ table, th, td {
 
 .image {
     width: 400px;
-    height: 600px;
+    height: 650px;
+    float: right;
+    border-radius: 50%;
 }
 
 .notes {
-    font-size: 14px;
-    color: black;
+    font-size: 16px;
+    color: #f0e2e6;
 }
 
 h3 {
-    color: pink;
+    color: #b26f81;
     text-decoration: underline;
 }
 
+.button {
+    background-color: #b26f81;
+    color: black;
+    font-weight: bolder;
+    border-color: #b26f81;
+}
+
+#navbar {
+    background-color: #b26f81;
+    color: black;
+    font-weight: bolder;
+}
+
+li {
+    font-weight: bold;
+}
