@@ -1,18 +1,20 @@
 /* applied to everything in html file */
 * { 
     font-family: 'Architects Daughter', cursive;
-    background-color: #d4afb9;
+    background-color: #FFEADD;
 }
 
 /* introduction */
 .introduction {
     text-align: center;
-    color: #b26f81;
+    color: #FF6666;
 }
 
 /* table */
-table, th, td {
-    border: solid 4px #b26f81;
+th, td {
+    border: dotted 3px #FF6666;
+    position: right;
+    color: black;
 }
 
 /* navbar */
@@ -22,8 +24,8 @@ table, th, td {
 }
 
 #navbar {
-    background-color: #b26f81;
-    color: black;
+    background-color: #FF6666;
+    color: #FFEADD;
     font-weight: bolder;
 }
 
@@ -38,21 +40,21 @@ table, th, td {
 /* notes */
 .notes {
     font-size: 16px;
-    color: #f0e2e6;
+    color: #FF6666;
 }
 
 /* headers */
 h3 {
-    color: #b26f81;
+    color: #FF6666;
     text-decoration: underline;
 }
 
 /* buttons */
 .button {
-    background-color: #b26f81;
-    color: black;
+    background-color: #FF6666;
+    color: #FFEADD;
     font-weight: bolder;
-    border-color: #b26f81;
+    border-color: #FCAEAE;
 }
 
 /* lists */
